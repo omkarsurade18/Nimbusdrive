@@ -381,7 +381,7 @@ If you want to allow others to freely use, modify, and distribute the project, c
 Computer Engineering Student
 Cloud • Full Stack • AI/ML • AWS
 
-[![GitHub](https://img.shields.io/badge/GitHub-darshanthorat6450-black?style=for-the-badge\&logo=github)](https://github.com/darshanthorat6450)
+[![GitHub](https://img.shields.io/badge/GitHub-omkarsurade18-black?style=for-the-badge\&logo=github)](https://github.com/omkarsurade18)
 
 </div>
 
