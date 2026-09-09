@@ -360,7 +360,7 @@ git push origin feature/amazing-feature
 
 If you find a bug or have an idea for a new feature, feel free to open an issue.
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-black?style=for-the-badge\&logo=github)](https://github.com/omkarsurade18/issues)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-black?style=for-the-badge\&logo=github)](https://github.com/omkarsurade18/Nimbusdrive/issues)
 
 ---
 
