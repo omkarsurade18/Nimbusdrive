@@ -376,7 +376,7 @@ If you want to allow others to freely use, modify, and distribute the project, c
 
 <div align="center">
 
-### Darshan Thorat
+### Omkar Surade
 
 Computer Engineering Student
 Cloud • Full Stack • AI/ML • AWS
